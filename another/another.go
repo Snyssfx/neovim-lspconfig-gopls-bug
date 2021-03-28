@@ -5,6 +5,6 @@ import (
 )
 
 func AnotherPrint() {
-	print("in another package")
+	println("in another package")
 	main_package.Print()
 }
