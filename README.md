@@ -1,0 +1,1 @@
+# neovim-lspconfig-gopls-bug
